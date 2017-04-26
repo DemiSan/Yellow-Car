@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Yellow-Car</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_game">Game</string>
+    <string name="title_activity_game_creation">GameCreation</string>
+    <string name="title_activity_rules">Rules</string>
+    <string name="rules">
+        "The goal of yellow car is to find the most yellow cars."
+        "Once a player has found a car they must say \“Yellow car\” which will give them one point."
+        "The same goes for a green car except a green car removes a point from every player except for themselves.\n\n"
+        "General\n"
+        "Construction Vehicles/School buses do not count towards yellow car.\n"
+        "Yellow Flying Vehicles count as 10 \“Yellow Cars\”\n"
+        "The same Vehicle can only be counted once.\n"
+        "Purple vehicles are automatic winners if you yell Purple car, winner, winner chicken dinner
+    </string>
+</resources>
